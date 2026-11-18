@@ -1,2 +1,3 @@
-# emails_github_2183_lab_s7d2q
-Northbridge lab shared repository
+# Northbridge Laboratory — code monorepo
+
+Shared implementation repository for the laboratory's research projects. Every project has its own folder under `projects/` with a `release.json` manifest describing the current release channel.
